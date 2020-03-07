@@ -1,0 +1,46 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        //- Add your name.
+        h1 John Raven Aquino
+
+        //- Feel free personalize the title below
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+
+        //- Replace the boilerplate below with your Elevator pitch below.
+        .portfolio-bio
+          p
+            | A passionate junior back-end developer with great hunger for knowledge and excitement. Determined to learn different stuffs in order to accomplish a specific goal.   
+            | He believes in the saying "“If you love your work, if you enjoy it, you're already a success." with that in mind he is in no rush in making money, as long as he enjoy's the work he is doing, money will follow.
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
+        ul
+          li Express
+          li React
+          li Vanilla JS
+          li jQuery
+          li SQL 
+          li PHP
+        h6 Contact Info
+
+        //- Add your own contact info
+        ul
+          li 09672149472
+          li synra.ph@yahoo.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        a.button.expanded(href='#') LinkedIn
+        a.button.expanded(href='https://github.com/synra-dev/T') GitHub
+        a.button.expanded(href='https://twitter.com/ravenaquinooo') Twitter
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  
