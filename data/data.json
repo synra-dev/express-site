@@ -6,7 +6,7 @@
         "technologies": ["Html", "CSS", "JavaScript"],
         "live_link": "https://synra-dev.github.io/Treehouse-Project-1/",
         "github_link": "https://github.com/synra-dev/Treehouse-Project-1",
-        "img": "#"
+        "image_url": "/static/images/demo-1.jpg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "technologies": ["Html", "CSS", "JavaScript"],
         "live_link": "https://synra-dev.github.io/Treehouse-Project-2/",
         "github_link": "https://github.com/synra-dev/Treehouse-Project-2",
-        "img": "#"
+        "image_url": "/static/images/demo-2.jpg"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "technologies": ["Html", "CSS", "JavaScript"],
         "live_link": "https://synra-dev.github.io/Treehouse-Project-3/",
         "github_link": "https://github.com/synra-dev/Treehouse-Project-3",
-        "img": "#"
+        "image_url": "/static/images/demo-3.jpg"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "technologies": ["Html", "CSS", "JavaScript"],
         "live_link": "https://synra-dev.github.io/Treehouse-Project-4/",
         "github_link": "https://github.com/synra-dev/Treehouse-Project-4",
-        "img": "#"
+        "image_url": "/static/images/demo-4.jpg"
     },
     {
         "id": 5,
@@ -42,6 +42,6 @@
         "technologies": ["Html", "CSS", "JavaScript"],
         "live_link": "https://synra-dev.github.io/Treehouse-Project-5/",
         "github_link": "https://github.com/synra-dev/Treehouse-Project-5",
-        "img": "#"
+        "image_url": "/static/images/demo-5.jpg"
     }
 ]
